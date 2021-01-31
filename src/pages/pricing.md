@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Pro
         subtitle: $5/user/m
-        price: $49/m
+        price: $2
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
