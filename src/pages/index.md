@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: Office Visits Made Fun
+    title: Your Next Office Visit
     content: >
       Know who else will be physically in office when you go there next, and
       plan activities around that
