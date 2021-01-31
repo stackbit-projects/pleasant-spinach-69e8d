@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: Your Next Office Visit
+    title: Your Next Office Visit Planned Well
     content: >
       Know who else will be physically in office when you go there next, and
       plan activities around that
