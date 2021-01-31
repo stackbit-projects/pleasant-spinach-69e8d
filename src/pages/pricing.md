@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Pro
-        subtitle: $5/user/m
+        subtitle: Unlock Productivity
         price: $2
         details: |-
           * Curabitur non nunc mollis
