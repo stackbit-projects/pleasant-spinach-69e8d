@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Know Who is Coming to Office Tomorrow
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |
+      Know who else will be in your office when you plan to be there next
     actions:
       - label: Learn More
         url: /features
