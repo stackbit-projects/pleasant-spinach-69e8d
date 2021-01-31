@@ -10,7 +10,7 @@ sections:
       Know who else will be physically in office when you plan to be there next,
       and plan activities around that
     actions:
-      - label: Learn More
+      - label: Try Now for Free
         url: /features
         style: primary
   - section_id: features
