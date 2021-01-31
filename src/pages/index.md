@@ -94,7 +94,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Wick Bot
+meta_title: Who is Coming to
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
