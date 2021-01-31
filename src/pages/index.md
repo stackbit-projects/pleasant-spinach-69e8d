@@ -95,6 +95,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Office Visit Bot
-meta_description: The preview of the Azimuth theme
+meta_description: Know who will be in office
 template: landing
 ---
