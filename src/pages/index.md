@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Know Who is Coming to Office Tomorrow
+    title: Office Attendance Bot
     content: |
       Know who else will be in your office when you plan to be there next
     actions:
