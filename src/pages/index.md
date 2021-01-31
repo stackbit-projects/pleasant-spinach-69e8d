@@ -94,7 +94,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Office Fun
+meta_title: Office Visit Bot
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
