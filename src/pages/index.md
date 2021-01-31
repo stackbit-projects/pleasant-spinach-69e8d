@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Your Attendance Planning Bot
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Just say hi to Wick on Slack or MS Teams
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
