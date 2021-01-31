@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Pro
-        subtitle: ''
+        subtitle: $5/user/m
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
