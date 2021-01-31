@@ -22,8 +22,9 @@ sections:
       - title: See Full List
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: |
-          See list
+        content: >
+          View names of all your work buddies who will be physically there to
+          greet you
         actions:
           - label: Learn More
             url: /features
