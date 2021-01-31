@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Pro
-        subtitle: Unlock Productivity
+        subtitle: Unlock Value
         price: $2
         details: |-
           * Curabitur non nunc mollis
