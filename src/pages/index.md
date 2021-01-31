@@ -12,7 +12,7 @@ sections:
       - label: Try Now for Free
         url: /features
         style: primary
-    image: images/1.jpg
+    image: images/9.jpg
   - section_id: features
     type: section_features
     background: gray
