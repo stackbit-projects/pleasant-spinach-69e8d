@@ -12,7 +12,7 @@ sections:
       - label: Try Now for Free
         url: /features
         style: primary
-    image: images/10.jpg
+    image: images/Work post covid.jpg
   - section_id: features
     type: section_features
     background: gray
