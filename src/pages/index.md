@@ -26,7 +26,7 @@ sections:
           View names of all your work buddies who will be physically there to
           greet you
         actions:
-          - label: Learn More
+          - label: View Now
             url: /features
             style: secondary
             has_icon: true
