@@ -9,7 +9,7 @@ sections:
       Know who else will be physically in office when you go there next, and
       plan activities around that
     actions:
-      - label: Try Now for Free
+      - label: Try for Free
         url: /features
         style: primary
     image: images/Work post covid.jpg
