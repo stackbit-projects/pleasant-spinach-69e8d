@@ -95,6 +95,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Office Visit Bot
-meta_description: Post Covid Workplace Management
+meta_description: 'Know who is coming to '
 template: landing
 ---
