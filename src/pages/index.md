@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Office Visits Made Fun
     content: >
-      WIck Bot lets you know who else will be in office when you plan to be
-      there next, and plan activities around that
+      Know who else will be in office when you plan to be there next, and plan
+      activities around that
     actions:
       - label: Learn More
         url: /features
