@@ -48,8 +48,9 @@ sections:
       - title: Simple to update
         image: images/feature3.png
         image_alt: App user profile preview
-        content: |
-          Changed plans? Update whenever you wish
+        content: >
+          Changed plans? Not a problem. Update your plans whenever you wish...
+          secretly!
         actions:
           - label: Learn More
             url: /features
