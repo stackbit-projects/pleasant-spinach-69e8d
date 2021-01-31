@@ -19,7 +19,7 @@ sections:
     title: Your Attendance Planning Bot
     subtitle: Just say hi to Wick on Slack or MS Teams
     features:
-      - title: Know It All
+      - title: See Full List
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: |
