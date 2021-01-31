@@ -19,7 +19,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Professional
+      - title: Pro
         subtitle: ''
         price: $49/m
         details: |-
