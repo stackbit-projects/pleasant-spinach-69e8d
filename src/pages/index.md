@@ -95,6 +95,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Office Visit Bot
-meta_description: Know who else will be physically in office today
+meta_description: Know who else will be physically in office tomorrow
 template: landing
 ---
