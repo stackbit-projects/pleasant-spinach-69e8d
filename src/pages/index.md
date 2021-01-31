@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Office Attendance Bot
+    title: Office Visits Made Fun
     content: >
       WIck Bot lets you know who else will be in office when you plan to be
       there next
