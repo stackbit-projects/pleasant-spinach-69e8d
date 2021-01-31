@@ -6,8 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Office Attendance Bot
-    content: |
-      Know who else will be in office when you plan to be there next
+    content: >
+      WIck Bot lets you know who else will be in office when you plan to be
+      there next
     actions:
       - label: Learn More
         url: /features
