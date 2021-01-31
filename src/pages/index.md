@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Office Attendance Bot
     content: |
-      Know who else will be in your office when you plan to be there next
+      Know who else will be in office when you plan to be there next
     actions:
       - label: Learn More
         url: /features
