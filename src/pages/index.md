@@ -63,7 +63,7 @@ sections:
     title: Start Now
     subtitle: It is free and takes seconds to integrate!
     actions:
-      - label: Get Started
+      - label: Add to Slack!
         url: /signup
         style: primary
   - section_id: recent-posts
