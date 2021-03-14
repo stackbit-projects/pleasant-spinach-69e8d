@@ -46,7 +46,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Take a raincheck too
-        image: images/feature3.png
+        image: images/Screenshot 2021-03-14 at 6.01.47 PM.png
         image_alt: App user profile preview
         content: >
           Changed plans? Not a problem. Update your plans whenever you wish...
