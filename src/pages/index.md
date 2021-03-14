@@ -20,7 +20,7 @@ sections:
     subtitle: Just say hi to Wick on Slack or MS Teams
     features:
       - title: See Full List
-        image: images/feature1.png
+        image: images/Screenshot 2021-03-14 at 5.53.09 PM.png
         image_alt: App preview on a phone and tablet
         content: >
           View names of all your work buddies who will be physically there to
