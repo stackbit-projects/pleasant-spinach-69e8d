@@ -33,7 +33,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Chat with Fellow Attendees
-        image: images/feature2.png
+        image: images/Screenshot 2021-03-14 at 5.57.20 PM.png
         image_alt: App users welcoming a new member
         content: >
           Create a channel for all those who will be coming to office that day.
