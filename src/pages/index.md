@@ -32,7 +32,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: The New Normal
+      - title: Chat with Fellow Attendees
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
