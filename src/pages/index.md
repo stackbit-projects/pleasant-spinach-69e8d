@@ -61,7 +61,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Start Now
-    subtitle: This is an optional description for the call to action block.
+    subtitle: It is free and takes seconds to integrate!
     actions:
       - label: Get Started
         url: /signup
