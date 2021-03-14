@@ -36,8 +36,8 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          Post Covid workplace is a bit different. That doesn't mean you can't
-          have fun!
+          Create a channel for all those who will be coming to office that day.
+          Hangout virtually before, during and after office with the same group!
         actions:
           - label: Learn More
             url: /features
