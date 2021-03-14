@@ -66,10 +66,6 @@ sections:
       - label: Add to Slack!
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 meta_title: Office Visit Bot
 meta_description: Know who else will be physically in office tomorrow
 template: landing
