@@ -18,7 +18,7 @@ sections:
             style: secondary
       - title: Pro
         subtitle: Unlock Value
-        price: $2
+        price: $2 / month
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
