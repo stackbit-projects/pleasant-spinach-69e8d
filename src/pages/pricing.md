@@ -23,7 +23,7 @@ sections:
           *   Per employee / month
         highlight: true
         actions:
-          - label: Order Now
+          - label: Start Now
             url: /signup
             style: primary
       - title: Enterprise
