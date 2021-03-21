@@ -32,7 +32,7 @@ sections:
         details: |
           *   Per employee / month
         actions:
-          - label: 'Start '
+          - label: Contact Us
             url: /signup
             style: secondary
   - section_id: faq
