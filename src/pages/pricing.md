@@ -29,11 +29,8 @@ sections:
       - title: Enterprise
         subtitle: Increase Productivity
         price: $5
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Per employee / month
         actions:
           - label: Order Now
             url: /signup
