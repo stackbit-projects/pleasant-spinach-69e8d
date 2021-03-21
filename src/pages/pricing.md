@@ -13,7 +13,7 @@ sections:
         details: |
           *   100 employees / day
         actions:
-          - label: Add to Slack
+          - label: Start Now
             url: /signup
             style: secondary
       - title: Pro
