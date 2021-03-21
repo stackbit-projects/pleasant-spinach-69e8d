@@ -11,10 +11,7 @@ sections:
         subtitle: Just for basic tasks
         price: $0
         details: |
-          *   Lorem ipsum dolor sit amet
-          *   Mauris a mi tincidunt
-          *   Suspendisse ut lacus
-          *   Etiam eget dui a augue
+          *   100 employees / day
         actions:
           - label: Order Now
             url: /signup
