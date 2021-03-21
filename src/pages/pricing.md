@@ -18,7 +18,7 @@ sections:
             style: secondary
       - title: Pro
         subtitle: Unlock Value
-        price: $2 / month
+        price: $2
         details: |
           *   Per employee / month
         highlight: true
