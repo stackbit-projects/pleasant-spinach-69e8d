@@ -28,7 +28,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: Increase Productivity
-        price: $149
+        price: $5
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
