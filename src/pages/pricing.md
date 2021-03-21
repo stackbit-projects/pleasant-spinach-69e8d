@@ -19,12 +19,8 @@ sections:
       - title: Pro
         subtitle: Unlock Value
         price: $2 / month
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Per employee / month
         highlight: true
         actions:
           - label: Order Now
